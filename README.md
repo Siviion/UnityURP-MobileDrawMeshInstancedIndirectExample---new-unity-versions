@@ -1,5 +1,8 @@
 # UnityURP-MobileDrawMeshInstancedIndirectExample
 
+!!! UPDATE !!!
+Shader didn't work in build, it appeared blue, removing the ["RenderPipeline" = "UniversalRenderPipeline"] from Tags solved the issue.
+
 youtube runtime demo video: https://youtu.be/A7rav4tS88s  
 download .apk, try it on your android phone: https://drive.google.com/file/d/185JWZXYPnVyDnA451cEZkS2H2wOYSce_/view
 
